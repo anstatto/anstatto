@@ -49,11 +49,15 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. 
 
 ### 📊 Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=anstatto&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anstatto)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anstatto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anstatto&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=anstatto&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anstatto)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=anstatto&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anstatto&theme=radical" />
+</div>
 
 ---
 
