@@ -49,9 +49,11 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas innovadoras. 
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=anstatto&show_icons=true&theme=radical)
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=anstatto&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/anstatto)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=anstatto&layout=compact&theme=radical)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=anstatto&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/anstatto)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anstatto&theme=radical&hide_border=true)](https://github.com/anstatto)
 
 ---
 
